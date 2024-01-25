@@ -16,3 +16,13 @@ a{
 body{
     background-color: #a2a2a1ff;
 }
+
+#contact img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: white 1px solid;
+}
+#right-side img{
+    border-radius: 20%;
+}
